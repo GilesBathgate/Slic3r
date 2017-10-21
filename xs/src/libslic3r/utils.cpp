@@ -1,4 +1,7 @@
+#ifdef SLIC3RXS
 #include <xsinit.h>
+#endif
+
 #include "utils.hpp" 
 #include <regex>
 
